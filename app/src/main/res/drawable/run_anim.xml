@@ -1,0 +1,9 @@
+<animation-list android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/runa" android:duration="80"/>
+     <item android:drawable="@drawable/runc" android:duration="80"/>
+    <item android:drawable="@drawable/rund" android:duration="80"/>
+    <item android:drawable="@drawable/rune" android:duration="80"/>
+    <item android:drawable="@drawable/runf" android:duration="80"/>
+</animation-list>
